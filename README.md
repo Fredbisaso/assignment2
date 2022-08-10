@@ -1,2 +1,2 @@
-# assignment2
+# Assignment2
 Fintech Bootcamp Assignment2
