@@ -1,4 +1,4 @@
-# Fintech Lending Application
+# Fintech Loan qualifier Application
 
 This application helps to calculate loans and prompts users to save the qualifying loans as a CSV file. 
 
