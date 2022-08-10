@@ -1,6 +1,6 @@
 # Fintech Lending Application
 
-Just after the title, introduce your project by describing attractively what the project is about and what is the main problem that inspires you to create this project or what is the main contribution for the potential user of your project.
+This application helps to calculate loans and prompts users to save the qualifying loans as a CSV file. 
 
 ---
 
